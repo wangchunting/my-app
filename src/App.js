@@ -11,7 +11,7 @@ class App extends Component {
                     <h1 className="App-title">Welcome to React</h1>
                 </header>
                 <p className="App-intro">
-                    aaa <code>bbb</code>cccc
+                    aaa <code>初始化</code>cccc
                </p>
             </div>
         );
